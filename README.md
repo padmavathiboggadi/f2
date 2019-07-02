@@ -3,3 +3,4 @@ home
 furniture
 electronic devices
 kitchen belongings
+second commit
